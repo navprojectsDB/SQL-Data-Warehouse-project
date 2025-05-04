@@ -2,7 +2,7 @@
 Welcome to **Data Warehouse and Analytics Project**🚀
 Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics.
 
------
+---
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 ![image](https://github.com/user-attachments/assets/0ce3c4a6-4fe2-48c9-a26b-71233ac5f031)
@@ -27,3 +27,16 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
+
+---
+
+🛠️ Important Links & Tools:
+Everything is for Free!
+
+datasets: Access to the project dataset (csv files).
+SQL Server Express: Lightweight server for hosting your SQL database.
+SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
+Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+DrawIO: Design data architecture, models, flows, and diagrams.
+Notion: Get the Project Template from Notion
+Notion Project Steps: Access to All Project Phases and Tasks.
